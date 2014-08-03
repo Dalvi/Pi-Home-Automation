@@ -31,7 +31,7 @@ Security is very important, a lot of work will be done to prevent unauthorized/m
 *Contributors are welcome!*
   
 Scenarios:  
-**I**
+**I**  
 You wake up, get out of bed, and you have to go to work. 
 - It's still dark (winter season). Lights turn on on your path.
 - Radio is starting, coffee is done or getting done.
@@ -44,7 +44,7 @@ You wake up, get out of bed, and you have to go to work.
 - 1 minute after, lights and central heating is turned off, perimeter alarm is armed
   
 
-**II**
+**II**  
 Intruder breaks in. 
 - You're notified and upon viewing a report with a picture, you approve calling emergency number (neighbour even).
 - You can speak to the intruder if you want to, maybe to persuade them to abort the theft
