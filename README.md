@@ -19,7 +19,7 @@ Basic
   
 
 Extras (mostly done by plugins)
-- DVR and action triggers on cam events (night, movement - like lighting the pathway of someone going through the house)
+- NVR and action triggers on cam events (night, movement - like lighting the pathway of someone going through the house)
 - alarms (left alone cat didn't move all day, too much noise in the house, flooding, someone is taking your car)
 - voice commands
 - call predefined number (requires GSM module or using a service)
