@@ -3,9 +3,9 @@ Pi-Home-Automation
 
 Complete Home Automation done with Raspberry Pi as central brain
 
-
+  
 **Project goals**
-
+  
 Basic
 - Start/Stop appliances (lights, hvac (ac, central heating), power-plugs in general)
 - Dim and preset normal and RGB LED lighting
@@ -16,7 +16,7 @@ Basic
 - API for plugins
 - Self diagnostics 
 - Auto-update (optional)
-
+  
 
 Extras (mostly done by plugins)
 - DVR and action triggers on cam events (night, movement - like lighting the pathway of someone going through the house)
@@ -25,11 +25,11 @@ Extras (mostly done by plugins)
 - call predefined number (requires GSM module or using a service)
 - call emergency numbers with automatically generated voice reports
 - personal assistant (Google Now like)
-
+  
 Security is very important, a lot of work will be done to prevent unauthorized/malicious action
-
+  
 *Contributors are welcome!*
-
+  
 Scenarios:
 **I**
 You wake up, get out of bed, and you have to go to work. 
@@ -42,7 +42,7 @@ You wake up, get out of bed, and you have to go to work.
 - "- Where are my keys?" you ask. "- You left them on the kitchen table"
 - You leave
 - 1 minute after, lights and central heating is turned off, perimeter alarm is armed
-
+  
 
 **II**
 Intruder breaks in. 
