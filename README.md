@@ -30,7 +30,7 @@ Security is very important, a lot of work will be done to prevent unauthorized/m
   
 *Contributors are welcome!*
   
-Scenarios:
+Scenarios:  
 **I**
 You wake up, get out of bed, and you have to go to work. 
 - It's still dark (winter season). Lights turn on on your path.
